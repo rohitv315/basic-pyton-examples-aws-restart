@@ -1,0 +1,146 @@
+ARITHMATIC OPERATOR
+Add
+x = 5
+y = 3
+
+print(x + y) =8
+
+sub
+x = 5
+y = 3
+
+print(x - y) = 2
+
+mul
+x = 5
+y = 3
+
+print(x * y) =15
+
+div
+x = 12
+y = 3
+
+print(x / y) =4
+
+modulus
+x = 5
+y = 2
+
+print(x % y) =1
+
+expo
+x = 2
+y = 5
+
+print(x ** y) #2*2*2*2*2=32
+
+x = 15
+y = 2
+
+print(x // y) = 7
+
+COMPARISON OPERATOR
+
+>=
+
+x = 5
+y = 3
+
+print(x >= y)
+
+# returns True because five is greater, or equal, to 3
+
+<=
+x = 5
+y = 3
+
+print(x <= y)
+
+# returns False because 5 is neither less than or equal to 3
+
+>
+
+x = 5
+y = 3
+
+print(x > y) = true
+
+<
+
+x = 5
+y = 3
+
+print(x < y) = false
+
+!=
+
+x = 5
+y = 3
+
+print(x != y) = true
+
+==
+
+x = 5
+y = 3
+
+print(x == y) = false
+
+ASSINGMENT OPERATOR
+=,+=,-=,*=,/=,%=
+
+=
+x = 5
+
+print(x)
+=5
+
++=
+
+
+x = 5
+
+x += 3
+
+print(x)
+=8
+
+-=
+
+x = 5
+
+x -= 3
+
+print(x)
+=2
+
+*=
+x = 5
+
+x *= 3
+
+print(x)
+=15
+
+/=
+x = 5
+
+x /= 3
+
+print(x)
+=1.666666667
+
+%=
+x = 5
+
+x %= 3
+
+print(x)
+=2
+
+
+
+
+
+
