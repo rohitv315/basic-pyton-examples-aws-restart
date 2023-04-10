@@ -10,7 +10,7 @@ qr=qrcode.QRCode(
     border=5
 )
 
-data="Rohit gedam"    # we can give the string or the link where after scanning the qr code you will get the output.
+data="https://www.youtube.com/"    # we can give the string or the link where after scanning the qr code you will get the output.
 
 qr.add_data(data)
 qr.make(fit=True)
